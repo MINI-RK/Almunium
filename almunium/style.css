@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+.uka {
+  display: flex;
+}
+.uka li {
+  list-style: none;
+}
+.uka li a {
+  text-decoration: none;
+  color: yellow;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  padding: 25px;
+  border: 2px solid white;
+  margin: 10px;
+  border-radius: 10px;
+}
+.uka li a:hover {
+  background-color: yellow;
+  color: aliceblue;
+  transition: color 0.3s ease-in;
+}
+h1 {
+  color: rgb(240, 240, 0);
+  font-family: "Courier New", Courier, monospace;
+}
+img {
+  width: 600px;
+  /* margin-left: 900px; */
+}
+.images {
+  display: flex;
+  justify-content: end;
+}

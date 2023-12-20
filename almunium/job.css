@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+}
+.nav {
+  border: 2px solid yellow;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.navone {
+  display: flex;
+  list-style: none;
+}
+.vol {
+  margin-left: 10px;
+}
+.volone:hover {
+  color: black;
+  background-color: yellow;
+}
+.vol:hover {
+  color: black;
+  background-color: yellow;
+}
+.inputu {
+  margin-left: 1100px;
+}
+.osama {
+  border: 2px solid yellow;
+  border-radius: 20px;
+  margin-top: 80px;
+}
+.binladen {
+  display: block;
+  margin-right: 10px;
+  /* border: 2px solid yellow; */
+  padding: 60px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.osama img {
+  width: 200px;
+  margin-bottom: 30px;
+}
+.stpdtext {
+  margin-bottom: 150px;
+  margin-right: 100px;
+  /* border: 2px solid yellow; */
+  padding: 5px;
+}
+.voltwo {
+  margin-left: 10px;
+}
+.voltwo:hover {
+  color: black;
+  background-color: yellow;
+}

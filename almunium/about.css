@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  color: aliceblue;
+  width: 600px;
+  padding: 15;
+}
+.banan {
+  border: 2px solid yellow;
+  border-radius: 20px;
+}
+.banana {
+  display: flex;
+}
+.hola {
+  list-style: none;
+  margin-right: 10px;
+}
+.holaone {
+  margin-right: 10px;
+}
+.holatwo {
+  margin-right: 10px;
+}
+.playto h1 {
+  text-align: center;
+  border: 2px solid yellow;
+  padding: 200px;
+
+  max-width: max-content;
+}
+.playto {
+  width: 50px;
+  padding: 15px;
+}
+.imgx {
+  width: 500px;
+  margin-left: 1000px;
+}
+.main {
+  display: flex;
+  border: 2px solid yellow;
+  border-radius: 20px;
+}
+.hola:hover {
+  color: black;
+  background-color: yellow;
+}
+.holaone:hover {
+  color: black;
+  background-color: yellow;
+}
+.holatwo:hover {
+  color: black;
+  background-color: yellow;
+}

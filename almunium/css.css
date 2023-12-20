@@ -1,0 +1,92 @@
+body {
+  background-color: black;
+}
+
+.cashew ul {
+  border: 2px solid yellow;
+  border-radius: 20px;
+  height: 40px;
+  display: flex;
+  /* justify-content: space-between; */
+}
+.och {
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  list-style: none;
+  padding: 10px;
+  color: black;
+}
+/* img {
+  width: 800px;
+  padding: 5px;
+  margin-left: 500px;
+} */
+.och a:hover {
+  color: yellow;
+  background-color: black;
+}
+.logo {
+  width: 50px;
+  padding: 0px;
+  margin: 0px;
+}
+.oyich {
+  border-radius: 15px;
+  border: 2px solid yellow;
+  color: yellow;
+}
+.ouch {
+  border-radius: 15px;
+  border: 2px solid yellow;
+  color: yellow;
+}
+.boing {
+  border-radius: 15px;
+  border: 2px solid yellow;
+  color: yellow;
+  margin-bottom: 500px;
+}
+input {
+  margin-left: 100px;
+  width: 150px;
+  padding: 5px;
+}
+h1 {
+  color: yellow;
+  margin-left: 100px;
+}
+.ouchone {
+  display: flex;
+}
+.main {
+  display: flex;
+  max-width: 100vh;
+}
+.login img {
+  width: 150px;
+  margin-left: 100px;
+}
+.ahaha {
+  width: 800px;
+  margin-left: 200px;
+  margin-bottom: 300px;
+}
+.inky {
+  padding: 5px;
+  width: 50px;
+}
+.login a {
+  width: 80px;
+  padding: 15px;
+  color: black;
+  background-color: yellow;
+  font-family: "Courier New", Courier, monospace;
+  border-color: black;
+  border-radius: 20px;
+  border: 2px solid black;
+  margin: 10px;
+}
+.ponky:hover {
+  color: yellow;
+  background-color: black;
+}
